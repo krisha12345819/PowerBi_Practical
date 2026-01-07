@@ -16,10 +16,10 @@ It helps educators and administrators make **data-driven decisions** by providin
 ---
 
 ## 🗂️ Dataset
-📁 [Students Dataset](./Data/Students.csv)  
-📁 [Scores Dataset](./Data/Scores.csv)  
-📁 [Attendance Dataset](./Data/Attendance.csv)  
-📁 [Behavior Dataset](./Data/Behavior.csv)
+📁 [Students Dataset](./Students.csv)  
+📁 [Scores Dataset](./Scores.csv)  
+📁 [Attendance Dataset](./Attendance.csv)  
+📁 [Behavior Dataset](./Behavior.csv)
 
 
 ---
